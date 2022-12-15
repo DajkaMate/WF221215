@@ -1,0 +1,15 @@
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\bin\Debug\net6.0\CA221214.exe
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\bin\Debug\net6.0\CA221214.deps.json
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\bin\Debug\net6.0\CA221214.runtimeconfig.json
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\bin\Debug\net6.0\CA221214.dll
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\bin\Debug\net6.0\CA221214.pdb
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\obj\Debug\net6.0\CA221214.csproj.AssemblyReference.cache
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\obj\Debug\net6.0\CA221214.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\obj\Debug\net6.0\CA221214.AssemblyInfoInputs.cache
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\obj\Debug\net6.0\CA221214.AssemblyInfo.cs
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\obj\Debug\net6.0\CA221214.csproj.CoreCompileInputs.cache
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\obj\Debug\net6.0\CA221214.dll
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\obj\Debug\net6.0\refint\CA221214.dll
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\obj\Debug\net6.0\CA221214.pdb
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\obj\Debug\net6.0\CA221214.genruntimeconfig.cache
+C:\Users\dajka.mate\Source\Repos\VF221214\CA221214\obj\Debug\net6.0\ref\CA221214.dll
